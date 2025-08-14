@@ -51,3 +51,19 @@ Deep learning models are often seen as **black boxes**. XAI methods:
 
 ---
 
+### Results
+
+Grad-CAM
+<img width="1463" height="629" alt="image" src="https://github.com/user-attachments/assets/8e1b91aa-41fe-4e9a-948e-6f968a964d2e" />
+
+LRP
+<img width="1334" height="615" alt="image" src="https://github.com/user-attachments/assets/5905aa25-fdf8-44d6-ba64-e79df22ea948" />
+
+After Transformations (Affine, RGB/BGR, Distracting Text)
+<img width="1586" height="663" alt="image" src="https://github.com/user-attachments/assets/886c89ed-2feb-4db0-a0be-aa001fbba757" />
+
+After Masking
+<img width="649" height="654" alt="image" src="https://github.com/user-attachments/assets/cf368c26-e247-447a-b045-2d4176448f9b" /> <img width="679" height="321" alt="image" src="https://github.com/user-attachments/assets/18cc6167-2c4d-47f9-95ab-5ebfffa0a2fe" />
+
+
+
