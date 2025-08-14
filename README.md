@@ -63,7 +63,8 @@ After Transformations (Affine, RGB/BGR, Distracting Text)
 <img width="1586" height="663" alt="image" src="https://github.com/user-attachments/assets/886c89ed-2feb-4db0-a0be-aa001fbba757" />
 
 After Masking
-<img width="649" height="654" alt="image" src="https://github.com/user-attachments/assets/cf368c26-e247-447a-b045-2d4176448f9b" /> <img width="679" height="321" alt="image" src="https://github.com/user-attachments/assets/18cc6167-2c4d-47f9-95ab-5ebfffa0a2fe" />
+<img width="649" height="654" alt="image" src="https://github.com/user-attachments/assets/cf368c26-e247-447a-b045-2d4176448f9b" /> 
+<img width="679" height="321" alt="image" src="https://github.com/user-attachments/assets/18cc6167-2c4d-47f9-95ab-5ebfffa0a2fe" />
 
 
 
